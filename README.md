@@ -25,7 +25,7 @@ Contributions needed in following areas(credit will be given once complete):
 4. Portfolio Section (Status: pending)
 5. Services Section (Status: pending)
 6. Testimonials Section (Status: pending)
-7. COntact Section (Status: pending)
+7. Contact Section (Status: pending)
 
 ##### Be sure to contribute in one section at a time to avoid merge conflicts
 
