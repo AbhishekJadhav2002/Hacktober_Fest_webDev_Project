@@ -21,7 +21,7 @@ You can add in the website's UI, Animations, or any valid programs(please don't 
 Contributions needed in following areas(credit will be given once complete):
 1. Facts Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
 2. Skill Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
-3. Resume Section (Status: pending)
+3. Resume Section (Status: DONE) [Contribution by: Ritesh (https://github.com/ritesh423)]
 4. Portfolio Section (Status: pending)
 5. Services Section (Status: pending)
 6. Testimonials Section (Status: pending)
