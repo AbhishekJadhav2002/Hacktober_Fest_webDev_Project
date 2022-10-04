@@ -18,6 +18,17 @@ https://hacktoberfest.digitalocean.com/
 #### What can I contribute?
 You can add in the website's UI, Animations, or any valid programs(please don't add too basic codes) under HTML, Bootstrap, CSS and javascript. Just make sure to add the file under the correct directory.
 
+Contributions needed in following areas(credit will be given once complete):
+1. Facts Section (Status: pending)
+2. Skill Section (Status: pending)
+3. Resume Section (Status: pending)
+4. Portfolio Section (Status: pending)
+5. Services Section (Status: pending)
+6. Testimonials Section (Status: pending)
+7. COntact Section (Status: pending)
+
+##### Be sure to contribute in one section at a time to avoid merge conflicts
+
 -----
 #### Instructions:
 * Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on Sign up option at the top right corner.
