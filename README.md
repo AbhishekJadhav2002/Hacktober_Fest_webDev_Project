@@ -1,5 +1,7 @@
 # Hacktober_Fest_webDev_Project
 Open to PRs for Hacktober Fest 2022. Only Genuine PRs will be accepted
+#### Any PR not following the Contribution rules will be labelled "invalid" 
+* Checkout "What can I contribute?" section for more details.
 
 # Hacktoberfest2022
 Hacktoberfest® is open to everyone in the global community. It encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
@@ -16,6 +18,8 @@ https://hacktoberfest.digitalocean.com/
 
 -----
 #### What can I contribute?
+##### Add stuff only relevent to the main website. Every new addition should be integrated with main index.html file so that its accessible from there.
+#### Any PR not following the Contribution rules will be labelled "invalid"
 You can add in the website's UI, Animations, or any valid programs(please don't add too basic codes) under HTML, Bootstrap, CSS and javascript. Just make sure to add the file under the correct directory.
 
 Contributions needed in following areas(credit will be given once complete):
@@ -25,7 +29,7 @@ Contributions needed in following areas(credit will be given once complete):
 4. Portfolio Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
 5. Services Section (Status: pending)
 6. Testimonials Section (Status: pending)
-7. Contact Section (Status: pending)
+7. Contact Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma) && Ziva (https://github.com/adithziva)]
 
 ##### Be sure to contribute in one section at a time to avoid merge conflicts
 
