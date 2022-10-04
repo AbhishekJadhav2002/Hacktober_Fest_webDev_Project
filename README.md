@@ -22,7 +22,7 @@ Contributions needed in following areas(credit will be given once complete):
 1. Facts Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
 2. Skill Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
 3. Resume Section (Status: DONE) [Contribution by: Ritesh (https://github.com/ritesh423)]
-4. Portfolio Section (Status: pending)
+4. Portfolio Section (Status: DONE) [Contribution by: Kshitij Verma (https://github.com/KshitijjVerma)]
 5. Services Section (Status: pending)
 6. Testimonials Section (Status: pending)
 7. Contact Section (Status: pending)
