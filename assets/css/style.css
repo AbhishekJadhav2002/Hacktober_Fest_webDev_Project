@@ -445,7 +445,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  
+
   height: 60px;
   display: block;
   background: none;
@@ -852,6 +852,11 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+#testimonials {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
